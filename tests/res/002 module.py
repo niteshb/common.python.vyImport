@@ -1,0 +1,4 @@
+
+config = {
+    'test': 'success',
+}
