@@ -1,4 +1,4 @@
-import importlib
+import importlib.util
 import os
 
 def vyLoadModuleFromFilePath(filePath, moduleName=None):
